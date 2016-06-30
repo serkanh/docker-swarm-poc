@@ -1,0 +1,6 @@
+*.tfvars
+*.swf
+*.swo
+*.tfstate
+*.tfplan
+*.backup

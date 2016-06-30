@@ -1,0 +1,6 @@
+aws_access_key = "FILL-IN-HERE"
+aws_secret_key = "FILL-IN-HERE"
+aws_key_name = "FILL-IN-HERE"
+aws_account_number = "FILL-IN-HERE"
+vpc.name = "FILL-IN-HERE"
+region = "FILL-IN-HERE"
